@@ -1,4 +1,4 @@
-Hi my names Jordan I'm an Engineer in the UK.
+Hi my names Jordan I'm a Software Engineer in the UK working @ Moneyhub.
 <!--
 **jordanjoecooper/jordanjoecooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
