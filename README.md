@@ -10,7 +10,6 @@ Hi my names Jordan I'm a Software Engineer in the UK.
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanjoecooper&layout=compact&hide=html" alt="jordanjoecooper" /></p>
 
 👯 I’m currently looking to collaborate on open source JS based projects.
 <br /><br />
@@ -22,4 +21,6 @@ Hi my names Jordan I'm a Software Engineer in the UK.
 <br />
 ⚡ Fun fact: Did you know there is an apartment at the top of the Eifal Tower?
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jordanjoecooper&show_icons=true" alt="jordanjoecooper" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanjoecooper&layout=compact&hide=html" alt="jordanjoecooper" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jordanjoecooper&show_icons=true" alt="jordanjoecooper" /></p>
