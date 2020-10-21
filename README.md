@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordanjoecooper" alt="jordanjoecooper" /> </p>
-
+   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 Hi my names Jordan I'm a Software Engineer in the UK.
 <!--
 **jordanjoecooper/jordanjoecooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,6 +25,4 @@ Hi my names Jordan I'm a Software Engineer in the UK.
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jordanjoecooper&show_icons=true&theme=radical" alt="jordanjoecooper" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanjoecooper&layout=compact&theme=radical" alt="jordanjoecooper" />
 </p>
-<p> 
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</p>
+
