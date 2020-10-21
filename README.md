@@ -13,5 +13,6 @@ Hi my names Jordan I'm a Software Engineer in the UK.
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jordanjoecooper&show_icons=true&theme=radical" alt="jordanjoecooper" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanjoecooper&theme=radical" alt="jordanjoecooper" />
 </p>
 
