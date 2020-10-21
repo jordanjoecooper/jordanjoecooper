@@ -17,7 +17,7 @@ Hi my names Jordan I'm a Software Engineer in the UK.
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanjoecooper&theme=radical" alt="jordanjoecooper" />
 </a>
-<p>
+<p text-align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
