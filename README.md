@@ -19,3 +19,5 @@ Hi my names Jordan I'm a Software Engineer in the UK.
 <br />
 <br />
 ⚡ Fun fact: Did you know there is an apartment at the top of the Eifal Tower?
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jordanjoecooper&show_icons=true" alt="jordanjoecooper" /></p>
