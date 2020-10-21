@@ -28,7 +28,5 @@ Hi my names Jordan I'm a Software Engineer in the UK.
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="60" height="60"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="60" height="60"/> 
 </p>
