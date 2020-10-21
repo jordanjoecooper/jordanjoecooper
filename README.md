@@ -1,5 +1,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordanjoecooper" alt="jordanjoecooper" /> </p>
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 Hi my names Jordan I'm a Software Engineer in the UK.
 <!--
 **jordanjoecooper/jordanjoecooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
