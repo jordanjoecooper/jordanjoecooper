@@ -3,9 +3,6 @@ Hi my names Jordan I'm a Software Engineer in the UK.
 
 👯 I’m currently looking to collaborate on open source JS based projects.
 <br /><br />
-📫 How to reach me: I am fairly active on Twitter (@jordanjoecooper) if not find other links on my website https://www.jordanjoecooper.dev
-<br />
-<br />
 💬 Ask me about: Anything Javascript-ey , agile working, process, documentation, whatever you like really.
 <br />
 <br />
