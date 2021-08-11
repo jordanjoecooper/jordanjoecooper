@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordanjoecooper" alt="jordanjoecooper" /> </p>
-Hey my name's Jordan,
+Hi my name's Jordan.
 
-I'm a Software Engineer based in the Bristol, UK.
+I'm a Software Engineer based in Bristol (UK).
 
 👯 I’m currently looking to collaborate on open source JS based projects.
 <br /><br />
