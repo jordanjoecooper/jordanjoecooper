@@ -1,11 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordanjoecooper" alt="jordanjoecooper" /> </p>
 Hi my name's Jordan.
 
-I'm a Software Engineer based in Bristol (UK).
+I'm a Software Engineer from the UK.
 
-👯 I’m currently looking to collaborate on open source JS based projects.
+👯 I’m currently looking to collaborate on open source projects.
 <br /><br />
-💬 Ask me about: Anything Javascript-ey , agile working, process, documentation, whatever you like really.
+💬 Ask me about: Anything Javascript-ey ,building high performing teams and creating great organisational culturew (always interested in this) as well as anything payments or FinTech related.
 <br />
 <br />
 ⚡ Fun fact: Did you know there is an apartment at the top of the Eiffel Tower?
