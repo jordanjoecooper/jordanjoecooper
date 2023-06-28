@@ -12,9 +12,6 @@ Hi my name's Jordan.<br><br>I'm a Software Engineer from the UK.<br><br>👯 I�
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jordanjoecooper&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanjoecooper&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jordanjoecooper&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=jordanjoecooper)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
