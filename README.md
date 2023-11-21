@@ -4,3 +4,5 @@ Hey, I'm Jordan.<br><br>I’m working on Payments, Open Banking & Open Finance.<
 <br>
 ---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jordanjoecooper&theme=dark&hide_border=false)
+<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanjoecooper&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
