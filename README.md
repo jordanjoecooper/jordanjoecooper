@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hey, I'm Jordan.<br><br>I’m working on Payments, Open Banking & Open Finance.<br><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jordanjoecooper) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=x&logoColor=white)](https://x.com/jordanjoecooper)
+Hey, I'm Jordan.<br><br>I like working on interesting problems with talented people.<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jordanjoecooper) [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=x&logoColor=black)](https://x.com/jordanjoecooper)
 <br>
 ---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jordanjoecooper&theme=dark&hide_border=false)
